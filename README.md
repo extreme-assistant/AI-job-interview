@@ -1,6 +1,11 @@
 # AI-job-interview
 AI算法岗面试经验汇总
 
+[校招概述](#1)
+[校招复习攻略](#2)
+
+<a name="1"/>
+
 # 校招概述
 
 极市开发者社区 用户Amusi 分享的 [如何准备 2020 届 AI 算法岗秋招？](http://bbs.cvmart.net/topics/236/AI-job)  
@@ -84,6 +89,9 @@ SSP：40w+ <br>
 这里po一张很全很全的高薪图，来自OfferShow<br>
 注：跟hr谈薪资的时候，如果她/他问你：你的希望薪资是多少？！这时候你一定要往高了要，至少比你想要的高30%。听我的，没有错，不然...<br>
 ![image](https://github.com/extreme-assistant/AI-job-interview/blob/master/image/2.png)
+
+
+<a name="2"/>
 
 # 校招复习攻略
 
